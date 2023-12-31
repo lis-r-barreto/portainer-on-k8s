@@ -42,7 +42,7 @@ Este repositório inclui manifestos YAML para criar e configurar um ambiente Kub
 
 3. **Aplique os manifestos para deploy do Portainer:**
    ```bash
-   kubectl apply -f kubernetes/portainer/
+   kubectl apply -f manifests/
    ```
 
    Isso instalará o Portainer no seu cluster Kubernetes.
