@@ -13,7 +13,7 @@ Certifique-se de ter instalado os seguintes componentes:
 
 Este repositório inclui manifestos YAML para criar e configurar um ambiente Kubernetes local usando k3s e k3d, juntamente com o gerenciamento visual do Portainer.
 
-## O que foi criado:
+## Manifestos:
 
 - **Namespace:**
   - Namespace `portainer` foi criado para isolar recursos relacionados ao Portainer.
